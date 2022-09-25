@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Broadcasts Test</string>
+    <string name="send_custom_broadcast">Send Custom Broadcast</string>
+    <string name="send_local_broadcast_message">Send Local broadcast message</string>
+    <string name="receiver">Receiver</string>
+    <string name="hello_keep_a_look_out_for_this_text_view_for_messages">Hello! Keep a look out for this text view for messages</string>
+    <string name="send_local_broadcast">Send Local Broadcast</string>
+</resources>
